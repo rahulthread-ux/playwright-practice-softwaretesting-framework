@@ -1,3 +1,5 @@
+import dotenv from 'dotenv';
+dotenv.config({ path: 'cred.env' });
 import { defineConfig, devices } from '@playwright/test';
 
 /**

@@ -13,3 +13,5 @@ allure-report/
 # OS junk
 .DS_Store
 Thumbs.db
+
+cred.env
